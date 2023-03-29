@@ -1,16 +1,6 @@
-# desafio_rodrigorahman
+# Desafio Flutter
 
-A new Flutter project.
+Desafio Flutter feito pelo Rodrgio Rahman, em precisava ser feito: 
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/85682890/228620871-ff7a19bc-fc47-4ada-b7cf-05630d1f5006.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
